@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Datbase
+# Database
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
